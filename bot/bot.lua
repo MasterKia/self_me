@@ -236,7 +236,7 @@ function create_config( )
      "groupmanager",
      "tools",
      },
-    sudo_users = {69594928},
+    sudo_users = {69594928,134618808},
     admin_users = {},
     disabled_channels = {}
   }
